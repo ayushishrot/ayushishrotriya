@@ -35,7 +35,7 @@
 ### My name is Ayushi Shrotriya. I am a DevOps Engineer . I have expertise on almost all of the technologies and cloud platforms stated above. I am looking for contributing in open source project. I am always exited to build something intresting.
 
 
-###
+<!-- ###
 
 ![](https://komarev.com/ghpvc/?username=ayushishrotriya&color=blue)
 
@@ -44,4 +44,4 @@
 **ayushishrotriya/ayushi-shrotriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
--->
+--> -->
